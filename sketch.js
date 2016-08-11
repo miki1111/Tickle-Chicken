@@ -1,10 +1,10 @@
 var message = "tickle",
   font,
   minX,minY,maxX,maxY;
-  x=200, y=100; // x and y coordinates of the text
+  x=350, y=200; // x and y coordinates of the text
 
 function setup() {
-  createCanvas(710, 400);
+  createCanvas(700, 400);
 }
 
 function draw() {
